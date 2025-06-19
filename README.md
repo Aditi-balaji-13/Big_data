@@ -1,8 +1,35 @@
-# Data Science Course Assignments
+# Big Data
 
-This repository contains all assignments and homeworks completed as part of a graduate-level course covering a wide spectrum of data science topics, including SQL programming, Hadoop and Spark, machine learning algorithms, and deep learning.
+This repository contains methodologies covering a wide spectrum of data science topics, including SQL programming, Hadoop and Spark, machine learning algorithms, and deep learning.
 
 ---
+
+## 📅 Gist of Methods
+
+### 🧾 Assignments
+
+| Assignment | Topic                            |
+|------------|----------------------------------|
+| A1         | SQL Programming                  |
+| A2         | Data Analytics in SQL            |
+| A3         | Hadoop Programming (Java)        |
+| A4         | Intro to Spark (Python)          |
+| A5         | Linear Regression on Spark       |
+| A6         | Deep Learning                    |
+
+### 📘 Homeworks
+
+| Homework | Topic                              |
+|----------|------------------------------------|
+| HW1      | Relational Algebra and Calculus    | 
+| HW2      | Bayes' Rule                        | 
+| HW3      | Gradient Descent                   | 
+| HW4      | Expectation Maximization           | 
+| HW5      | Support Vector Machine             | 
+| HW6      | Outlier Detection                  | 
+
+---
+
 
 ## 📁 Directory Structure
 
@@ -52,31 +79,6 @@ This repository contains all assignments and homeworks completed as part of a gr
 
 ---
 
-## 📅 Timeline
-
-### 🧾 Assignments
-
-| Assignment | Topic                            | Out Date   | Due Date  |
-|------------|----------------------------------|------------|-----------|
-| A1         | SQL Programming                  | Jan 24     | Feb 10    |
-| A2         | Data Analytics in SQL            | Feb 5      | Feb 25    |
-| A3         | Hadoop Programming (Java)        | Feb 19     | Mar 9     |
-| A4         | Intro to Spark (Python)          | Mar 4      | Mar 23    |
-| A5         | Linear Regression on Spark       | Mar 13     | Apr 9     |
-| A6         | Deep Learning                    | Apr 5      | Apr 24    |
-
-### 📘 Homeworks
-
-| Homework | Topic                              | Out Date   | Due Date  |
-|----------|------------------------------------|------------|-----------|
-| HW1      | Relational Algebra and Calculus    | Jan 15     | Jan 29    |
-| HW2      | Bayes' Rule                        | Feb 1      | Feb 8     |
-| HW3      | Gradient Descent                   | Feb 23     | Mar 5     |
-| HW4      | Expectation Maximization           | Mar 5      | Mar 14    |
-| HW5      | Support Vector Machine             | Mar 20     | Mar 30    |
-| HW6      | Outlier Detection                  | Mar 27     | Apr 19    |
-
----
 
 ## 🛠️ Technologies Used
 
